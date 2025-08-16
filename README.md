@@ -23,3 +23,7 @@ This project replicates the look and feel of Netflix, including a home page with
 - <img width="1920" height="1080" alt="Screenshot 2025-08-16 070811" src="https://github.com/user-attachments/assets/061eabdc-cecd-4c6b-8bb3-21f31e4d8e81" />
 <img width="1895" height="967" alt="Screenshot 2025-08-16 070829" src="https://github.com/user-attachments/assets/05e28252-e403-4a57-bd34-dd12220f6582" />
 
+<img width="1871" height="958" alt="Screenshot 2025-08-16 070852" src="https://github.com/user-attachments/assets/18669949-9643-4ed1-b04b-bf6f7f29a435" />
+
+
+
